@@ -1,10 +1,10 @@
 ## Welcome! 👋
 
-I'm **Fernando**, I'm a physicist from Mexico. 
+I'm **Fernando**, a physicist from Mexico. 
 
 I write code to simulate key characteristics of mixed stars, with the help of numerical methods. Afterwards I clean and analyze the data. And finally, I show our findings with simple yet concise plots.
 
-My main language is Python, although I've also coded in C and C++. I use a lot of Python tools such as Pandas, Numpy, Scipy, Matplotlib and Scikit.
+My main language is *Python*, although I've also coded in C and C++. I use a lot of Python tools such as *Pandas*, *Numpy*, *Scipy*, *Matplotlib* and *Scikit*.
 
 I'm currently working on obtaining a Python developer certificate.
 
