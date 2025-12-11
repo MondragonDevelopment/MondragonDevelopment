@@ -1,4 +1,4 @@
-## Welcome! 
+## Welcome! 👋
 
 I'm **Fernando**, I'm a physicist from Mexico. 
 
